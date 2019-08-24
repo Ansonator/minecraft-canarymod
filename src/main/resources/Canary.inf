@@ -1,0 +1,4 @@
+main-class = helloworld.HelloWorldEZ
+name = HelloWorldEZ
+author = Bryce
+version = 1.0
